@@ -1,0 +1,26 @@
+# Folders to ignore
+/build/
+/dist/
+/node_modules/
+/venv/
+/__pycache__/
+/.idea/
+/.vscode/
+*.egg-info/
+
+# Files to ignore
+.env
+*.log
+*.tmp
+*.swp
+*.zip
+*.rar
+*.7z
+
+# Ignore credentials
+.internal/GITHUB_CREDENTIALS.md
+.internal/
+
+# OS-specific
+.DS_Store
+Thumbs.db 

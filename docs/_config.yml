@@ -1,0 +1,36 @@
+theme: jekyll-theme-cayman
+
+title: Satisfactory Offline Setup Assistant
+description: "The ultimate offline setup assistant for Satisfactory. Build massive factories without any internet connection or launcher requirements."
+
+# SEO Settings
+url: "https://satisfactory-offline-setup-assistant.github.io"
+github_username: Satisfactory-Offline-Setup-Assistant
+github_repository: satisfactory-offline-setup-assistant
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Installation"
+    url: "/installation.html"
+  - title: "Modding Guide"
+    url: "/modding.html"
+  - title: "FAQ"
+    url: "/faq.html"
+  - title: "GitHub"
+    url: "https://github.com/Satisfactory-Offline-Setup-Assistant/satisfactory-offline-setup-assistant"
+
+# Social Links
+social_links:
+  - platform: discord
+    url: https://discord.gg/placeholder
+  - platform: twitter
+    url: https://twitter.com/satisfactory_offline
+  - platform: youtube
+    url: https://youtube.com/c/satisfactoryoffline
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap 
